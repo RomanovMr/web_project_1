@@ -309,10 +309,6 @@
 
 }
 
-.footer__column_content_copyright {
-  
-}
-
 .logo_place_footer {
   display: flex;
   top: 0;
@@ -324,9 +320,6 @@
   font-size: 18px;
   margin: 18px auto;
   bottom: 0;
-}
-
-.footer__column_content_about {
 }
 
 .footer__column_content_social {
