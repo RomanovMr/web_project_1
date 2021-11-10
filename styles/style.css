@@ -1,8 +1,6 @@
 .page * {
-  border: 1px solid blue;
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
   list-style: none;
 }
 .page {
@@ -264,7 +262,6 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: auto;
-  list-style: none;
   align-self: center;
   z-index: 2;
 }
