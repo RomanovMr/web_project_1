@@ -1,0 +1,13 @@
+.spinning_object {
+    animation: spinning_object-rotate 20s linear infinite;
+  }
+  
+  @keyframes spinning_object-rotate {
+    from {
+      transform: rotate(0);
+    }
+  
+    to {
+      transform: rotate(-360deg);
+    }
+  }

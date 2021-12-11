@@ -1,0 +1,14 @@
+.section-title {
+    max-width: 60%;
+    line-height: 69px;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 100px auto 20px;
+    text-align: center;
+  }
+
+  .section-title_theme_dark {
+    margin: 90px auto 20px;
+    z-index: 1;
+    color: white;
+  }
