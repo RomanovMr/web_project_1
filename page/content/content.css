@@ -2,7 +2,6 @@
 @import url(./table.css);
 @import url(./section-subtitle.css);
 @import url(./section-title.css);
-@import url(./two-columns.css);
 @import url(./description/description.css);
 @import url(./techniques/techniques.css);
 @import url(./video/video.css);
@@ -11,4 +10,4 @@
 @import url(./digits/digits.css);
 @import url(./khan/khan.css);
 @import url(./kaufman/kaufman.css);
-@import url(./resources/resources.css);
+@import url(./index.css);
