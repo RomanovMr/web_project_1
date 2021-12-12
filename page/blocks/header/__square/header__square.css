@@ -1,0 +1,11 @@
+.header__square {
+  z-index: 0;
+  height: 568px;
+  width: 568px;
+  position: absolute;
+  margin: 0;
+  top: 64px;
+  right: 0;
+  background-color: #2F80ED;
+  rotate: -15deg;
+}
