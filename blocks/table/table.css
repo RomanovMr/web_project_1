@@ -5,4 +5,5 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 60px auto 100px;
+  padding: 0;
 }
