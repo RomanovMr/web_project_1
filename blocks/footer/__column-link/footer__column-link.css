@@ -5,4 +5,5 @@
   list-style: none;
   color: white;
   text-decoration: none;
+  align-self: flex-start;
 }

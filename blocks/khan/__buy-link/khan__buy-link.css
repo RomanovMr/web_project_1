@@ -3,5 +3,6 @@
   font-size: 30px;
   font-weight: normal;
   color: #2F80ED;
-  text-decoration: none; 
+  text-decoration: none;
+  align-self: flex-start;
 }
